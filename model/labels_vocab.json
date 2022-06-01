@@ -1,0 +1,1 @@
+{"w2i": {"O": 0, "B-LOC": 1, "B-CW": 2, "I-CW": 3, "B-PER": 4, "I-PER": 5, "B-CORP": 6, "I-CORP": 7, "B-GRP": 8, "I-GRP": 9, "B-PROD": 10, "I-PROD": 11, "I-LOC": 12}, "i2w": {"0": "O", "1": "B-LOC", "2": "B-CW", "3": "I-CW", "4": "B-PER", "5": "I-PER", "6": "B-CORP", "7": "I-CORP", "8": "B-GRP", "9": "I-GRP", "10": "B-PROD", "11": "I-PROD", "12": "I-LOC"}}
